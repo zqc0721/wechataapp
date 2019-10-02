@@ -1,0 +1,38 @@
+<!--pages/home/home.wxml-->
+  <view class="box">
+      <view class="logo">
+            <image src="../../img/bg2.jpg"></image>
+      </view>
+      <view class="h-posi">
+        <view class="h-in">张琦昌</view>
+        <view class="h-in1">
+            <view>手机</view>
+            <view>18634833721</view>
+            <view><button>拨打</button> </view>
+        </view>
+        <view class="h-in1" >
+            <view>邮箱</view>
+            <view>2437446169@qq.com</view>
+            <view><button>复制</button></view>
+        </view>
+        <view class="h-in1">
+            <view>职业</view>
+            <view>web前端开发工程师</view>
+            <view><button>复制</button></view>
+        </view>
+      </view>
+      <view class="h-jiu">
+          <view class="h-jiu1">
+            <view><image src="../../img/123.jpg"></image></view>
+            <view>生成海报</view>
+          </view>
+          <view class="h-jiu1">
+            <view><image src="../../img/223.jpg"></image></view>
+            <view>保存电话</view>
+          </view>
+          <view class="h-jiu1">
+            <view><image src="../../img/323.jpg"></image></view>
+            <view>分享好友</view>
+          </view>
+      </view>
+  </view>

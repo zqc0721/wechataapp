@@ -1,0 +1,29 @@
+<view class="nav">
+   <view class="n-logo">
+      <image src="../../yemian/logo1.jpg"></image>
+   </view>
+   <view class="n-ri">“日志版”主要记录技术、技巧、常识、经验类文章。用户可以发自己的文章，同时可以留言与文章发布者沟通，一同探索问题。</view>
+   <view class="v-home">首页_</view>
+   <view class="v-en">各类文章列表，可以让用户更方便的找到自己感兴趣的文章</view>
+   <view class="v-img1">
+    <view class="v-img2"><image src="../../yemian/ye10.jpg"></image></view>
+    <view class="v-img2"><image src="../../yemian/ye9.jpg"></image></view>
+   </view>
+   <view class="v-home">专题</view>
+  <view class="v-zhuan">
+  <view>
+   碎文:所见所闻，什么好奇的都有。满足兴趣广泛用户的需求。</view>
+  <view>知识:好记性不如多分享。你会了，我也会了，用户可以分享自己了解的文章。</view>
+    <view>技术:可以说是瞎折腾的地方。用户可以阅读与技术有关的文章。</view>
+  <view>资源:各类资源收集，不为别的，方便你我。</view>
+</view>
+ <view class="v-img1">
+    <view class="v-img2"><image src="../../yemian/ye10.jpg"></image></view>
+    <view class="v-img2"><image src="../../yemian/ye11.jpg"></image></view>
+   </view>
+     <view class="v-home">我的页面</view>
+     <view class="v-text1">包含用戸个人信息、渕覧足迹、坪文章、点贊文章、贊賞文章以及汀倪椪目</view>
+      <view class="v-img1">
+    <view class="v-img2"><image src="../../yemian/ye.jpg"></image></view>
+   </view>
+</view>

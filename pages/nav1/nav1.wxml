@@ -1,0 +1,28 @@
+<view>
+<view class="nav">
+   <view class="n-logo">
+      <image src="../../yemian/logo2.jpg"></image>
+   </view>
+   <view class="n-ri">微店+“遠里有祢常迂的微店。、  “微店+”是一款在:全国等服努范圉内面向微信用戸提供銭.上“零
+售”服努的小程序彦品,在“胸物、商城”等綜合服努領域具有一定的知名度。</view>
+   <view class="v-home">首页_</view>
+   <view class="v-en">商品广告圏，捜索自己喜炊的商品及店鋪，分炎迭項，商品列表頁。</view>
+   <view class="v-img1">
+    <view class="v-img2"><image src="../../yemian/ye6.jpg"></image></view>
+    <view class="v-img2"><image src="../../yemian/ye7.jpg"></image></view>
+   </view>
+   <view class="v-home">收货地址</view>
+  <view class="v-zhuan">
+  通过设置添加收货地址，并且可以设置默认地址。设置里可以解决用户的一些问题。
+</view>
+ <view class="v-img1">
+    <view class="v-img2"><image src="../../yemian/ye3.jpg"></image></view>
+    <view class="v-img2"><image src="../../yemian/ye2.jpg"></image></view>
+   </view>
+     <view class="v-home">我的页面</view>
+     <view class="v-text1">包含用戸个人信息、浏览足迹、收藏商品、收藏的店等用户信息、也有订单、下单商品的相关的显示</view>
+      <view class="v-img1">
+    <view class="v-img2"><image src="../../yemian/ye.jpg"></image></view>
+   </view>
+</view>
+</view>

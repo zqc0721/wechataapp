@@ -1,0 +1,23 @@
+<!--pages/home/home.wxml-->
+  <view class="home">
+      <view class="page-section page-section-spacing swiper">
+        <swiper indicator-dots="{{indicatorDots}}"
+          autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+          <block wx:for="{{background}}" wx:key="*this">
+            <swiper-item>
+              <view class="swiper-item {{item}}"><image src="{{image}}"></image></view>
+            </swiper-item>
+             <swiper-item>
+              <view class="swiper-item {{item}}"><image src="{{image2}}"></image></view>
+            </swiper-item>
+             <swiper-item>
+              <view class="swiper-item {{item}}"><image src="{{image3}}"></image></view>
+            </swiper-item>
+
+          </block>
+        </swiper>
+    </view>
+    <view class="btn">
+      <button>点击</button>
+    </view>
+  </view>

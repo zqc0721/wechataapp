@@ -1,12 +1,11 @@
-// pages/map/map.js
+// pages/init/init.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    img1:'https://imgsa.baidu.com/forum/w%3D580%3B/sign=c3e3e0095f3d26972ed3085565c0b3fb/5ab5c9ea15ce36d3b6365ef334f33a87e850b1c7.jpg',
-    img2:'https://imgsa.baidu.com/forum/w%3D580%3B/sign=da40cdec9bcad1c8d0bbfc2f4f056609/d1160924ab18972b3e09dd09e8cd7b899f510ac6.jpg'
+    img1: 'http://qcloud.dpfile.com/pc/AcYpIZlIgoIy-k9lVv9KxqkQwo8xm0ShfltGIdiDdQlU9slrsejo5zHJIueJv84QTYGVDmosZWTLal1WbWRW3A.jpg'
   },
 
   /**

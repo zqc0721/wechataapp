@@ -10,8 +10,4 @@
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
   </view>
-  <view>
-    <button bindtap="clickme">点击</button>
-    <button bindtap="jumpmap">跳转到地图</button>
-  </view>
 </view>

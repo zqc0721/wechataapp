@@ -10,15 +10,6 @@ Page({
     canIUse: wx.canIUse('button.open-type.getUserInfo')
   },
   //事件处理函数
-  clickme:function(){
-    this.setData({motto:'张琦昌'})
-  },
-  jumpmap:function(){
-    wx.navigateTo({
-      url: '../map/map',
-    })
-  }
-  ,
   bindViewTap: function() {
     wx.navigateTo({
       url: '../logs/logs'
