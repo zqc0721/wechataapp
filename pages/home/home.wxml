@@ -8,7 +8,7 @@
         <view class="h-in1">
             <view>手机</view>
             <view>18634833721</view>
-            <view><button>拨打</button> </view>
+            <view><button bindtap="aaa">拨打</button> </view>
         </view>
         <view class="h-in1" >
             <view>邮箱</view>

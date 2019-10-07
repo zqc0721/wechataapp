@@ -1,6 +1,10 @@
 // pages/init/init.js
 Page({
-
+  aaa:function(){
+    wx.makePhoneCall({
+      phoneNumber: '18634833721',
+    })
+  },
   /**
    * 页面的初始数据
    */

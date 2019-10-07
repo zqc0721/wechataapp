@@ -1,6 +1,15 @@
 // pages/map/map.js
 Page({
-
+  Ta:function(){
+    wx.navigateTo({
+      url: '../nav/nav',
+    })
+  },
+  Tb:function(){
+    wx.navigateTo({
+      url: '../nav1/nav1',
+    })
+  },
   /**
    * 页面的初始数据
    */

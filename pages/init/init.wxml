@@ -7,14 +7,14 @@
         <view class="i-con">
           <view class="i-gong"><view class="i-rig"></view>工作经历</view>
           <view class="i-gong1">2018.10-2019.06</view>
-          <view class="i-gong1">北京睿智天宇科技有限公司</view>
+          <view class="i-gong1">北京优思安科技有限公司</view>
           <view class="i-gong21">2017.08-2018.10</view>
           <view class="i-gong2">北京海纳万家商贸有限公司</view>
            <view class="i-gong21">2016.10-2017.07</view>
-          <view class="i-gong2">运城市乐果乐食食品有限公司</view>
+          <view class="i-gong2">北京市果果果食品有限公司</view>
            <view class="i-gong4"> <view class="i-rig"></view>教育经历</view>
           <view class="i-gong1">2012.09-2016.07</view>
-          <view class="i-gong1">山西农业大学信息学院</view>
+          <view class="i-gong1">山西科技大学信息学院</view>
         </view>
       </view>
   </view>
